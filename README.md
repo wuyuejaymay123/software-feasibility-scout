@@ -11,7 +11,6 @@
 ## English
 
 ### What is it?
-
 Software Feasibility Scout is a reusable skill for AI agents. It helps an individual developer turn a broad direction such as “social products”, “gaming tools”, “creator software”, or “AI utilities” into evidence-backed software opportunities.
 
 The skill is designed for people who can build websites, mobile apps, browser tools, or AI-powered products and want to reduce the risk of spending two weeks building something nobody needs. It is a research workflow, not a lead database and not a promise of business success.
