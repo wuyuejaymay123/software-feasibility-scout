@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Feasibility Scout"
+  short_description: "从多来源发现并验证可收费的软件机会"
+  default_prompt: "使用 $software-feasibility-scout，按我的方向从公开社区、Google 热词和 TikTok 热点发现长期或阶段性需求，核查用户经历、现有解法与付费依据，保存中文报告。"
